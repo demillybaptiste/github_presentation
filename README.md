@@ -18,3 +18,5 @@ petit test technique réalisé en 2 jours pour simuler le fonctionnement d'un as
 https://github.com/Kragzmo-Simon/ScalaSpells.git
 devoir, réalisé en cours avec un autre étudiant, comportant un web crawler en scala.
 énoncé: https://docs.google.com/document/d/1QA8RDcY1UK6R8PBwjU1qmb8uP04dXJVF14EAV_645iI/edit
+
+Le projet réalisé en février-mars étant confidentiel, je ne peux transmettre aucun code à ce sujet.
